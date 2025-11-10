@@ -72,12 +72,12 @@ Is Hyva Better Than Luma or PWA for Magento
 
 
 
-[1]: https://neklo.com/blog/hyva-theme-magento?utm_source=chatgpt.com "What Is Hyvä: Exploring the Magento 2 Game Changer - NEKLO"
-[2]: https://www.evrig.com/blog/top-10-magento-hyva-theme-features?utm_source=chatgpt.com "Top 10 Features of Magento Hyvä Theme for Developers - Evrig"
-[3]: https://www.hyva.io/hyva-theme-license.html?utm_source=chatgpt.com "Hyva Theme License - Hyvä Themes"
-[4]: https://neklo.com/blog/hyva-theme-benefits?utm_source=chatgpt.com "Business and Tech Benefits of Hyvä Theme in Magento 2 - NEKLO"
-[5]: https://meetanshi.com/blog/hyva-theme-templates/?utm_source=chatgpt.com "A Detailed Guide on Hyvä Theme Templates - Meetanshi"
-[6]: https://www.hyva.io/blog/news/hyva-ui-now-available.html?utm_source=chatgpt.com "Hyvä UI is now available!"
-[7]: https://docs.hyva.io/hyva-themes/getting-started/index.html?utm_source=chatgpt.com "1. Getting Started with Hyvä Theme"
-[8]: https://www.hyva.io/?utm_source=chatgpt.com "Hyvä Magento 2 Theme - Fix your Magento frontend with Hyvä ..."
-[9]: https://neklo.com/blog/hyva-development-cost?utm_source=chatgpt.com "Hyvä Theme Cost: Key Points to Consider [Estimation Guide] - NEKLO"
+[1]: https://neklo.com/blog/hyva-theme-magento "What Is Hyvä: Exploring the Magento 2 Game Changer - NEKLO"
+[2]: https://www.evrig.com/blog/top-10-magento-hyva-theme-features "Top 10 Features of Magento Hyvä Theme for Developers - Evrig"
+[3]: https://www.hyva.io/hyva-theme-license.html "Hyva Theme License - Hyvä Themes"
+[4]: https://neklo.com/blog/hyva-theme-benefits "Business and Tech Benefits of Hyvä Theme in Magento 2 - NEKLO"
+[5]: https://meetanshi.com/blog/hyva-theme-templates/ "A Detailed Guide on Hyvä Theme Templates - Meetanshi"
+[6]: https://www.hyva.io/blog/news/hyva-ui-now-available.html "Hyvä UI is now available!"
+[7]: https://docs.hyva.io/hyva-themes/getting-started/index.html "1. Getting Started with Hyvä Theme"
+[8]: https://www.hyva.io/ "Hyvä Magento 2 Theme - Fix your Magento frontend with Hyvä ..."
+[9]: https://neklo.com/blog/hyva-development-cost "Hyvä Theme Cost: Key Points to Consider [Estimation Guide] - NEKLO"
