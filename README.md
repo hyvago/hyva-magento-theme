@@ -46,12 +46,31 @@ This project is open source. Please review the repository’s LICENSE file. Cont
 * Community discussions: Magento forums, Slack channels.
 * Verify extension compatibility when migrating or installing third-party modules. ([Neklo][9])
 
-## Author & Maintainers
 
-This project is maintained by the Hyvä team and community contributors.
+HYVA THEME RESOURCES AND GUIDES
 
-Thanks for using Hyvä.
-— Susheel
+You can use the following guides to understand Hyva advantages, performance, and customization approaches.
+
+Is Hyva Theme Really Worth It
+[https://hyvago.com/is-hyva-theme-really-worth-it-know-this-before-you-invest/](https://hyvago.com/is-hyva-theme-really-worth-it-know-this-before-you-invest/)
+
+Professional Hyva Theme Customization Services for Peak Performance
+[https://hyvago.com/professional-hyva-theme-customization-services-for-peak-performance/](https://hyvago.com/professional-hyva-theme-customization-services-for-peak-performance/)
+
+Can Hyva Theme Help You Pass Google’s Core Web Vitals
+[https://hyvago.com/can-hyva-theme-help-you-pass-googles-core-web-vitals/](https://hyvago.com/can-hyva-theme-help-you-pass-googles-core-web-vitals/)
+
+Top 10 Hyva Theme Benefits for Your Magento 2 Store
+[https://hyvago.com/top-10-hyva-theme-benefits-for-your-magento-2-store/](https://hyvago.com/top-10-hyva-theme-benefits-for-your-magento-2-store/)
+
+Magento 2 Hyva Theme Development Service
+Speed up your Magento store with a modern frontend.
+[https://hyvago.com/magento-2-hyva-theme-development-service-speed-up-your-store-with-a-modern-frontend/](https://hyvago.com/magento-2-hyva-theme-development-service-speed-up-your-store-with-a-modern-frontend/)
+
+Is Hyva Better Than Luma or PWA for Magento
+[https://hyvago.com/is-hyva-better-than-luma-or-pwa-for-magento-a-detailed-comparison/](https://hyvago.com/is-hyva-better-than-luma-or-pwa-for-magento-a-detailed-comparison/)
+
+
 
 [1]: https://neklo.com/blog/hyva-theme-magento?utm_source=chatgpt.com "What Is Hyvä: Exploring the Magento 2 Game Changer - NEKLO"
 [2]: https://www.evrig.com/blog/top-10-magento-hyva-theme-features?utm_source=chatgpt.com "Top 10 Features of Magento Hyvä Theme for Developers - Evrig"
